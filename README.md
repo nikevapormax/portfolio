@@ -7,3 +7,13 @@
 - email : [wjdeorms27@naver.com](wjdeorms27@naver.com)
 - velog : [velog.io/@nikevapormax](https://velog.io/@nikevapormax)
 - github : [github.com/nikevapormax](https://github.com/nikevapormax)
+
+## 📌 Projects
+- [iPark Project](https://github.com/nikevapormax/iPark_django_backend)
+  > - 프로젝트 개요
+  >    - 서울시 소재 공원을 중심으로 한 커뮤니티를 생성하며, 사용자가 원하는 공원을 직접 검색할 수 있습니다.
+  > - 기술스택
+  >    - Python 3.9.10  /  Django 4.0.6  /  Django REST framework 3.13.1  / 
+  >      postgreSQL  /  Docker  /  AWS  /
+  >      HTML•CSS  /  Javascript  /  jQuery
+- 
