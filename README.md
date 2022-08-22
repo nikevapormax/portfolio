@@ -4,7 +4,7 @@
 - 속도와 정확성을 모두 챙기기 위해 노력하고 있습니다.
 
 ## 📌 Contact
-- email : [wjdeorms27@naver.com](wjdeorms27@naver.com)
+- email : <a href="mailto:wjdeorms27@naver.com">wjdeorms27@naver.com</a>
 - velog : [velog.io/@nikevapormax](https://velog.io/@nikevapormax)
 - github : [github.com/nikevapormax](https://github.com/nikevapormax)
 
